@@ -57,4 +57,8 @@ Se você gostou dessa análise, compartilhe este post e deixe seus comentários 
 
 ## Tela Inicial do projeto:
 
-![screan](https://user-images.githubusercontent.com/81689363/190420116-177e6087-c1dd-4276-bef1-1dd20e575039.PNG)
+![tela](https://github.com/user-attachments/assets/ffad7384-98a6-463f-a491-6a80802083e1)
+
+![tela-aprovado](https://github.com/user-attachments/assets/20848e81-474e-4d74-baf2-f852ec1d0896)
+
+
