@@ -1,4 +1,4 @@
-# Análise de Dados de Empréstimos: Descubra os Fatores que Influenciam a Aprovação de Crédito
+# Análise de Empréstimos usando Machine Learning e colocando o modelo em produção
 
 No mundo financeiro, a decisão de aprovar ou negar um empréstimo é crucial tanto para as instituições quanto para os solicitantes. Mas o que realmente influencia essa decisão? Para responder a essa pergunta, realizamos uma análise detalhada de um conjunto de dados de solicitações de empréstimo. Neste post, vamos explorar os principais insights que encontramos e como eles podem ajudar instituições financeiras a tomar decisões mais informadas.
 
@@ -60,5 +60,7 @@ Se você gostou dessa análise, compartilhe este post e deixe seus comentários 
 ![tela](https://github.com/user-attachments/assets/ffad7384-98a6-463f-a491-6a80802083e1)
 
 ![tela-aprovado](https://github.com/user-attachments/assets/20848e81-474e-4d74-baf2-f852ec1d0896)
+
+Link do projeto: https://api-flesk-emprestimo.onrender.com
 
 
